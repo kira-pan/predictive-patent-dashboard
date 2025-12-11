@@ -1,7 +1,7 @@
-# predictive-patent-dashboard
+# Predictive-Patent-Dashboard
 A tool for innovators and lawyer to input information about their patent to predict the likelihood of it to be approved. Trained on data from US Patent and Trademark office.
 
-This project is an interactive Streamlit dashboard developed as part of a project examining how USPTO Office Actions influence the likelihood that a patent application receives an allowance.
+This project is an interactive Streamlit dashboard developed with my partner as part of a project examining how USPTO Office Actions influence the likelihood that a patent application receives an allowance.
 
 The dashboard combines:
 - Exploratory Data Analysis (EDA) across USPTO Technology Centers
